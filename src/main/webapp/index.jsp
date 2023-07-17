@@ -2,7 +2,7 @@
 <body>
 <h1><font colour='red'>Welcome to Ashok IT..!!<font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
-<h3>location hyd, come to learn here</h3>
+<h3>location hyd, come to learn and explore with sivagnanaprasanna bharathiamba</h3>
 
 <a href="https://ashokitech.com/online-training-scheadules">click here to see the training scheadules</a>
 </html>
