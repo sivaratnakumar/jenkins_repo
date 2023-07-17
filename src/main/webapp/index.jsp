@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font colour='red'>Welcome to Ashok IT..!!<font></h1>
+<h1><font colour='red'>Welcome to Ashok IT..!!</font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 <h3>location hyd, come to learn and explore with me</h3>
 
